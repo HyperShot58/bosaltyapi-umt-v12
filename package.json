@@ -4,7 +4,8 @@
   "description": "discord*bot",
   "main": "umt.js",
   "scripts": {
-    "test": "node umt.js"
+    "start
+   ": "node umt.js"
   },
   "author": "umt",
   "dependencies": {
